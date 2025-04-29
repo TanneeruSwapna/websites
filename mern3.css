@@ -1,0 +1,114 @@
+.body-Container{
+    background-color: rgb(95, 95, 121);
+    height: auto;
+    width: auto;
+    margin-bottom: 0px;
+    padding: 10px;
+    text-align: center;
+    margin: 0px;
+
+
+}
+
+/* creating a Navbar */
+.Navbar{
+    background-color: rgb(66, 51, 52);
+    height: 90px;
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 20px;
+    padding: 20px;
+    align-items: center;
+    margin: 0px;
+  
+}
+.img-class{
+    border-radius: 40px;
+    height: 80px;
+    width: 80px;
+    
+    
+
+}
+.Navbar a{
+    color:#ffffff ;
+    padding: 20px;
+    margin: 10px;
+    margin: 20px;
+    justify-content: start;
+    text-decoration: none;
+}
+nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+button{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(164, 161, 157);
+
+}
+.items{
+    border: 1px solid;
+    height: 180px;
+    width: auto;
+    margin: 20px;
+    border-radius: 20px;
+    background-color: rgb(39, 34, 38);
+    color: white;
+    padding: 10px;
+}
+.items1{
+    border: 1px solid;
+    height: 170px;
+    width: auto;
+    margin: 1px;
+    border-radius: 20px;
+    background-color: rgb(39, 34, 38);
+    color: white;
+    padding: 10px;
+}
+
+.food-img{
+    height: 120px;
+    width: 130px;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+
+
+}
+.food-img1{
+    height: 120px;
+    width: 150px;
+    border-radius: 40px;
+    margin: 20px;
+    padding: 10px;
+
+
+}
+
+hr{
+    border: 1px solid;
+}
+h1{
+    color: rgb(21, 23, 23);
+    font-style:inherit;
+}
+.contact-section {
+    border: 1px solid;
+    height: 330px;
+    width: 250px;
+    border-radius: 10px;
+    background-color:     height: 90px;
+    ;
+    color: black;
+    padding: 10px;
+    justify-content: start;
+
+}
